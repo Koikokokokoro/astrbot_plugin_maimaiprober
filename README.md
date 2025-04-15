@@ -1,8 +1,6 @@
-# helloworld
+# Mai-bot
 
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
+无限期绝赞延后中
 
 # 支持
 
